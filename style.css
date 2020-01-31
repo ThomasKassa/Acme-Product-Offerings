@@ -1,0 +1,10 @@
+div{
+    background-color: tomato;
+    border-radius: 1rem;
+    margin: 1rem;
+    flex-wrap: wrap;
+}
+
+.productname{
+    text-decoration: underline;
+}
